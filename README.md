@@ -19,6 +19,12 @@ This simple Kotlin application calculates the number of minutes you have been al
 2. Enter your date of birth.
 3. The app will display the total number of minutes you have been alive.
 
+## ScreenShots
+ ![WhatsApp Image 2024-06-01 at 11 33 07_57909e60](https://github.com/Adithya-Merugu/Age_In_Minutes/assets/120652724/a73d7e80-3a02-415a-9b22-4678073c28db)
+
+ ![WhatsApp Image 2024-06-01 at 11 33 08_28e5c09a](https://github.com/Adithya-Merugu/Age_In_Minutes/assets/120652724/ed5ebc44-29f9-4ed2-aed1-9d56fac8f9b7)
+
+
 ## Code Overview
 
 ```kotlin
